@@ -1,0 +1,27 @@
+.customer-detail-page {
+  padding: 5px 15px;
+  text-align: center;
+}
+
+.address-box {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.address-text {
+  color: #c45500;
+  margin: -15px;
+}
+
+.address-container {
+  min-height: 120px;
+  width: 300px;
+  padding: 20px;
+  border-width: 1px;
+  box-sizing: border-box;
+  border-color: #C7C7C7;
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, .16);
+  border-style: solid;
+}
